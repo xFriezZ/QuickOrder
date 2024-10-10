@@ -62,4 +62,10 @@
 
 Этот проект помогает значительно сократить рутинные операции по расчетам НМЦК, автоматизировать формирование файлов с расчетами, а также улучшить общий процесс управления закупками.
 
+Ниже представлены скриншоты программы.
+
 ![Screnshot](https://github.com/xFriezZ/QuickOrder/blob/main/LoginPage.jpg)
+![Screnshot](https://github.com/xFriezZ/QuickOrder/blob/main/Error%20notification.jpg)
+![Screnshot](https://github.com/xFriezZ/QuickOrder/blob/main/Handling%20errors%20during%20registration.jpg)
+![Screnshot](https://github.com/xFriezZ/QuickOrder/blob/main/TableView.jpg)
+![Screnshot](https://github.com/xFriezZ/QuickOrder/blob/main/Download%20window%20(waiting%20for%20response%20from%20server%20with%20files).jpg)
